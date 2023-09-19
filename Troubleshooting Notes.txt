@@ -1,0 +1,11 @@
+memory leak: when an unused chunk of memory is not free
+Latency --> Time it takes for my request to reach the server (50 miliseconds < latency < 100sudo miliseconds)
+Bandwidth --> the available speed of data transmission
+Scroll Buffer --> Feature that let's us scroll up and see the things that we executed and their output
+
+Questions while troubleshooting:
+What were you trying to do?
+What steps did you follow?
+What was the expected result?
+What was the actual result?
+
